@@ -1,2 +1,3 @@
 I am learning Git.
 Git tracks my project history.
+Git commits create checkpoints.
